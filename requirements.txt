@@ -1,18 +1,19 @@
-openai-whisper==20240930
-streamlit~=1.20.0
-streamlit_player~=0.1.5
-streamlit-aggrid~=0.3.4
-ffsubsync~=0.4.24
-whisper-timestamped @ git+https://github.com/linto-ai/whisper-timestamped
-pandas==1.5.3
-pysubs2~=1.6.0
-pywhispercpp==1.3.0
-dl_translate==0.3.0
-faster_whisper
-whisperx @ git+https://github.com/m-bain/whisperx.git
-stable-ts==2.18.2
+dl-translate==0.3.0
+faster-whisper==1.1.0
+ffsubsync==0.4.29
+numpy==1.26.4
 openai==1.60.1
-transformers==4.48.1
-numpy<2
+openai-whisper==20240930
+pandas==1.5.3
+pydub==0.25.1
+pysubs2==1.6.1
+pywhispercpp==1.3.0
+stable-ts==2.18.2
+streamlit==1.20.0
+streamlit-aggrid==0.3.4.post3
+streamlit-player==0.1.5
 torch==2.2.0
 torchaudio==2.2.0
+transformers==4.48.1
+whisper-timestamped @ git+https://github.com/linto-ai/whisper-timestamped@d953bc3fa20a8a27c8d33218084aac5e3f7b7636
+whisperx @ git+https://github.com/m-bain/whisperx.git@f8d11df7270f80a4c9086c75abbf1b20ab2bc988
